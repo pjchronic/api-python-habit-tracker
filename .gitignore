@@ -1,0 +1,24 @@
+# .gitignore
+# Diretórios e arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos de banco de dados (SQLite)
+*.db
+*.sqlite
+
+# Variáveis de ambiente
+.env
+
+# IDE/Editores
+.vscode/
+.idea/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
